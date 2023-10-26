@@ -1,0 +1,14 @@
+C:\Users\dimau\source\repos\Auto\Auto\bin\Debug\net6.0\AutoNew26.10.exe
+C:\Users\dimau\source\repos\Auto\Auto\bin\Debug\net6.0\AutoNew26.10.deps.json
+C:\Users\dimau\source\repos\Auto\Auto\bin\Debug\net6.0\AutoNew26.10.runtimeconfig.json
+C:\Users\dimau\source\repos\Auto\Auto\bin\Debug\net6.0\AutoNew26.10.dll
+C:\Users\dimau\source\repos\Auto\Auto\bin\Debug\net6.0\AutoNew26.10.pdb
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.AssemblyInfoInputs.cache
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.AssemblyInfo.cs
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.csproj.CoreCompileInputs.cache
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.dll
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\refint\AutoNew26.10.dll
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.pdb
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\AutoNew26.10.genruntimeconfig.cache
+C:\Users\dimau\source\repos\Auto\Auto\obj\Debug\net6.0\ref\AutoNew26.10.dll
